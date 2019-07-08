@@ -1,6 +1,6 @@
 <template>
     <div>
-           home页面
+           欢迎来到home页面
     </div>
 </template>
 <script>
